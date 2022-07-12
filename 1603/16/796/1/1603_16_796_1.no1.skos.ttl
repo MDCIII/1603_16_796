@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,30 +26,36 @@
 <urn:mdciii:1603:16:796:1:1>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:796:1:1" ;
-    skos:prefLabel "Grand Turk"@eng-Latn .
+    skos:prefLabel "Grand Turk"@eng-Latn ;
+    wdata:q7200235 "TC1" .
 
 <urn:mdciii:1603:16:796:1:2>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:796:1:2" ;
-    skos:prefLabel "Middle Caicos"@eng-Latn .
+    skos:prefLabel "Middle Caicos"@eng-Latn ;
+    wdata:q7200235 "TC2" .
 
 <urn:mdciii:1603:16:796:1:3>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:796:1:3" ;
-    skos:prefLabel "North Caicos"@eng-Latn .
+    skos:prefLabel "North Caicos"@eng-Latn ;
+    wdata:q7200235 "TC3" .
 
 <urn:mdciii:1603:16:796:1:4>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:796:1:4" ;
-    skos:prefLabel "Providenciales and West Caicos"@eng-Latn .
+    skos:prefLabel "Providenciales and West Caicos"@eng-Latn ;
+    wdata:q7200235 "TC4" .
 
 <urn:mdciii:1603:16:796:1:5>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:796:1:5" ;
-    skos:prefLabel "Salt Cay"@eng-Latn .
+    skos:prefLabel "Salt Cay"@eng-Latn ;
+    wdata:q7200235 "TC5" .
 
 <urn:mdciii:1603:16:796:1:6>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:796:1:6" ;
-    skos:prefLabel "South Caicos and East Caicos"@eng-Latn .
+    skos:prefLabel "South Caicos and East Caicos"@eng-Latn ;
+    wdata:q7200235 "TC6" .
 
