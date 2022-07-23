@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:796:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:796:0> ;
     skos:prefLabel "Grand Turk"@eng-Latn ;
-    wdata:q7200235 "TC1" ;
+    wdata:Q7200235 "TC1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -50,7 +50,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:796:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:796:0> ;
     skos:prefLabel "Middle Caicos"@eng-Latn ;
-    wdata:q7200235 "TC2" ;
+    wdata:Q7200235 "TC2" ;
 .
 
 <urn:mdciii:1603:16:796:1:3>
@@ -61,7 +61,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:796:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:796:0> ;
     skos:prefLabel "North Caicos"@eng-Latn ;
-    wdata:q7200235 "TC3" ;
+    wdata:Q7200235 "TC3" ;
 .
 
 <urn:mdciii:1603:16:796:1:4>
@@ -72,7 +72,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:796:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:796:0> ;
     skos:prefLabel "Providenciales and West Caicos"@eng-Latn ;
-    wdata:q7200235 "TC4" ;
+    wdata:Q7200235 "TC4" ;
 .
 
 <urn:mdciii:1603:16:796:1:5>
@@ -83,7 +83,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:796:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:796:0> ;
     skos:prefLabel "Salt Cay"@eng-Latn ;
-    wdata:q7200235 "TC5" ;
+    wdata:Q7200235 "TC5" ;
 .
 
 <urn:mdciii:1603:16:796:1:6>
@@ -94,6 +94,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:796:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:796:0> ;
     skos:prefLabel "South Caicos and East Caicos"@eng-Latn ;
-    wdata:q7200235 "TC6" ;
+    wdata:Q7200235 "TC6" ;
 .
 
